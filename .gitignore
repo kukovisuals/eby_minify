@@ -1,0 +1,19 @@
+# Node modules directory (not needed in the repo)
+node_modules/
+
+# Log files
+*.log
+
+# Generated or minified files (you can ignore the dist folder if you don't want to track minified files)
+dist/
+
+# Mac system files (if you're using macOS)
+.DS_Store
+
+# Environment variables
+.env
+
+# IDE/editor specific files
+.vscode/
+.idea/
+*.swp
